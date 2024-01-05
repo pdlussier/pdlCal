@@ -1,0 +1,130 @@
+<?php
+/*
+== LuxCal V4.7.7M event calendar theme ==
+== Created: 2020-04-17 02:28 ==
+*/
+
+/* ---- USER-INTERFACE STYLES ---- */
+
+
+$th = array(
+
+/*====== THEME TITLE ======*/
+"THEME" => "pdl-Cal",
+
+
+/*====== GENERAL ======*/
+
+//BACKGROUND COLORS
+"BXXXX" => "#333333", //calendar general
+"BTBAR" => "#FDFDFD", //calendar top bar
+"BBHAR" => "#40495E", //bars, headers and lines
+"BBUTS" => "#4876B8", //buttons
+"BDROP" => "#FFFFFF", //drop-down menus
+"BXWIN" => "#535C70", //pop-up windows
+"BINBX" => "#FFFFEE", //insert boxes
+"BOVBX" => "#FEFEFE", //overlay boxes
+"BFFLD" => "#FFFFFF", //form fields
+"BCONF" => "#A0D070", //confirmation message
+"BWARN" => "#FFF0A0", //warning message
+"BERRO" => "#FF2222", //error message
+"BHLIT" => "#DFFF52", //text highlight
+
+//TEXT COLORS
+"CXXXX" => "#7AADFF", //calendar general
+"CTBAR" => "#2B3856", //calendar top bar
+"CBHAR" => "#FFFFFF", //bars, headers and lines
+"CBUTS" => "#FFFFFF", //buttons
+"CDROP" => "#2B3856", //drop-down menus
+"CXWIN" => "#FFFFFF", //pop-up windows
+"CINBX" => "#2B3856", //insert boxes
+"COVBX" => "#2B3856", //overlay boxes
+"CFFLD" => "#2B3856", //form fields
+"CCONF" => "#2B3856", //confirmation message
+"CWARN" => "#2B3856", //warning message
+"CERRO" => "#2B3856", //error message
+"CHLIT" => "#2B3856", //text highlight
+
+//BORDER COLORS
+"EXXXX" => "#C8CBCC", //calendar general
+"EOVBX" => "#73A9FF", //overlay boxes
+"EBUTS" => "#000000", //buttons
+
+//FONT FAMILY/SIZES
+"FFXXX" => "roboto,sans-serif", //base font family
+"PSXXX" => "12", //base font size
+"PTBAR" => "17", //calendar top bar
+"PPGTL" => "14", //page titles
+"PTHDL" => "13", //table headers L
+"MTHDM" => "1.0", //table headers M
+"MDTHD" => "1.0", //date headers
+"MSNHD" => "1.0", //section headers
+"MOVBX" => "1.0", //overlay boxes
+"MFFLD" => "1.1", //form fields
+"MBUTS" => "1", //buttons
+"MPWIN" => "1.1", //pop-up windows
+"MSMAL" => "0.8", //small text
+
+//MISCELLANEOUS
+"sTbSw" => "1", //top bar shadow (0:no 1:yes)
+"sCtOf" => "10", //content offset
+
+
+/*====== GRID / VIEWS ======*/
+
+//BACKGROUND COLORS
+"BGCTH" => "#A3D141", //day cell - hover
+"BGTFD" => "#ADCFFF", //cell head 1st day of month
+"BGWTC" => "#DDDDDD", //weeknr / time column
+"BGWD1" => "#BBBDC4", //weekday month 1
+"BGWD2" => "#FFFFFF", //weekday month 2
+"BGWE1" => "#8A93BD", //weekend month 1
+"BGWE2" => "#818E91", //weekend month 2
+"BGOUT" => "#FEFEFE", //outside month
+"BGTOD" => "#419636", //day cell today
+"BGSEL" => "#FFEEEE", //day cell selected day
+"BLINK" => "#FFFFFF", //URL and email links
+"BCHBX" => "#FFFFDD", //todo check box
+
+//TEXT COLORS
+"CGWTC" => "#333333", //weeknr / time column
+"CGTFD" => "#303030", //cell head 1st day of month
+"CGWD1" => "#2B3856", //weekday month 1
+"CGWD2" => "#2B3856", //weekday month 2
+"CGWE1" => "#FFFFFF", //weekend month 1
+"CGWE2" => "#FFFFFF", //weekend month 2
+"CGOUT" => "#2B3856", //outside month
+"CGTOD" => "#2B36FF", //day cell today
+"CGSEL" => "#2B3856", //day cell selected day
+"CLINK" => "#C02020", //URL and email links
+"CCHBX" => "#FF0000", //todo check box
+
+//BORDER COLORS
+"EGTOD" => "#777777", //day cell today
+"EGSEL" => "#6682FF", //day cell selected day
+
+//FONT SIZES
+"MEVTI" => "1.2", //event title in views
+
+
+/*====== HOVER BOXES ======*/
+
+//BACKGROUND COLORS
+"BHNOR" => "#FDFFD6", //normal event
+"BHPRI" => "#5C95FF", //private event
+"BHREP" => "#FFF8E6", //repeating event
+
+//TEXT COLORS
+"CHNOR" => "#2B3856", //normal event
+"CHPRI" => "#FFFFFF", //private event
+"CHREP" => "#2B3856", //repeating event
+
+//BORDER COLORS
+"EHNOR" => "#4F9C20", //normal event
+"EHPRI" => "#545454", //private event
+"EHREP" => "#4684C7", //repeating event
+
+//FONT SIZES
+"MPOPU" => "1.2", //hover popup box
+);
+?>

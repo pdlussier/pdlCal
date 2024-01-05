@@ -1,0 +1,345 @@
+
+2020.03.06 15:20:23 mycal:WARNING Script: /public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cP
+2020.03.06 15:38:43 mycal:WARNING Script: /public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cal1x
+- save
+- pSet
+- calMenu
+- cronHost
+- cronIpAd
+2020.03.06 15:38:43 mycal:WARNING Script: /public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cal1x
+- save
+- pSet
+- calMenu
+- cronHost
+- cronIpAd
+2020.03.06 15:38:43 mycal:WARNING Script: /public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cal1x
+- save
+- pSet
+- calMenu
+- cronHost
+- cronIpAd
+2020.03.06 15:38:43 mycal:WARNING Script: /public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cal1x
+- save
+- pSet
+- calMenu
+- cronHost
+- cronIpAd
+2020.03.06 15:38:44 mycal:WARNING Script: /public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cal1x
+- save
+- pSet
+- calMenu
+- cronHost
+- cronIpAd
+2020.03.07 13:55:10 mycal:WARNING Script: /public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cal1x
+- xCode
+- un_em
+- pword
+- action
+- cookie
+2020.03.08 14:24:46 mycal:ERROR Script: /public/pdl_cal/index.php - SMTP mail to pdlussier@pdlussier.ca failed.
+Password: SMTP server reply: 535 Incorrect authentication data
+
+2020.04.17 02:50:15 mycal:ERROR Script: /public/pdl_cal/index.php - SMTP mail to pdlussier@pdlussier.ca, admin@pdlussier.ca failed.
+Password: SMTP server reply: 535 Incorrect authentication data
+
+2020.11.26 04:38:47 mycal:WARNING Script: /downmystreetandupyours/public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cal1x
+- xCode
+- un_em
+- pword
+- action
+2020.11.26 04:58:47 mycal:ERROR Script: /downmystreetandupyours/public/pdl_cal/index.php - SMTP mail to pdlussier@processdatalogic.ca failed.
+Password: SMTP server reply: 535 Incorrect authentication data
+
+2020.11.26 04:58:47 mycal:WARNING Script: /downmystreetandupyours/public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cal1x
+- xCode
+- un_em
+- pword
+- action
+2020.11.26 04:59:01 mycal:ERROR Script: /downmystreetandupyours/public/pdl_cal/index.php - SMTP mail to pdlussier@processdatalogic.ca failed.
+Password: SMTP server reply: 535 Incorrect authentication data
+
+2021.01.21 18:16:35 mycal:ERROR Script: /public/pdl_cal/index.php - SMTP mail to pdlussier@processdatalogic.ca failed.
+Password: SMTP server reply: 535 Incorrect authentication data
+
+2021.01.21 18:20:04 mycal:ERROR Script: /public/pdl_cal/index.php - SMTP mail to pdl@downmystreetandupyours.org failed.
+Password: SMTP server reply: 535 Incorrect authentication data
+
+2021.01.21 18:20:10 mycal:ERROR Script: /public/pdl_cal/index.php - SMTP mail to pdlussier@pdlussier.ca failed.
+Password: SMTP server reply: 535 Incorrect authentication data
+
+2021.02.03 23:57:15 mycal:WARNING Script: /public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cD
+2021.02.04 02:19:04 mycal:WARNING Script: /public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.no token received
+Form input keys:
+- cD
+2021.04.17 01:05:54 mycal:WARNING Script: /public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cD
+2021.04.17 21:10:20 mycal:WARNING Script: /public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cD
+2021.05.12 15:34:49 mycal:WARNING Script: /public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cD
+2022.12.06 13:20:58 mycal:WARNING Script: /public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cal1x
+- nD
+2023.05.10 11:23:08 mycal:WARNING Script: /public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cD
+2023.05.10 11:23:08 mycal:WARNING Script: /public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cD
+2023.05.10 11:23:08 mycal:WARNING Script: /public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cD
+2023.08.14 00:08:36 mycal:WARNING Script: /pdl-app/public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cal1x
+- xP
+- mode
+- eid
+- evD
+- oUid
+- ediN
+- eExt
+- att
+- tit
+- ven
+- cid
+- sda
+- sti
+- eda
+- eti
+- des
+- xf1
+- xf2
+- nom
+- nos
+- nal
+- uid
+- r_t
+- ri1
+- rp1
+- ri2
+- rp2
+- rpm
+- rul
+- action
+2023.08.14 00:08:58 mycal:WARNING Script: /pdl-app/public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cal1x
+- xP
+- mode
+- eid
+- evD
+- oUid
+- ediN
+- eExt
+- att
+- tit
+- ven
+- cid
+- sda
+- sti
+- eda
+- eti
+- des
+- xf1
+- xf2
+- nom
+- nos
+- nal
+- uid
+- r_t
+- ri1
+- rp1
+- ri2
+- rp2
+- rpm
+- rul
+- action
+2023.08.14 14:03:57 mycal:WARNING Script: /pdl-app/public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.no token received
+Form input keys:
+- cD
+2023.08.20 17:28:31 mycal:WARNING Script: /pdl-app/public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cD
+2023.08.20 17:28:31 mycal:WARNING Script: /pdl-app/public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cD
+2023.08.20 17:30:21 mycal:WARNING Script: /pdl-app/public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cal1x
+- xP
+- mode
+- eid
+- evD
+- oUid
+- ediN
+- eExt
+- att
+- tit
+- ven
+- cid
+- sda
+- sti
+- eda
+- eti
+- des
+- xf1
+- xf2
+- nom
+- nos
+- nal
+- uid
+- r_t
+- ri1
+- rp1
+- ri2
+- rp2
+- rpm
+- rul
+2023.08.20 17:30:45 mycal:WARNING Script: /pdl-app/public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cal1x
+- xP
+- mode
+- eid
+- evD
+- oUid
+- ediN
+- eExt
+- att
+- tit
+- ven
+- cid
+- sda
+- sti
+- eda
+- eti
+- des
+- xf1
+- xf2
+- nom
+- nos
+- nal
+- uid
+- r_t
+- ri1
+- rp1
+- ri2
+- rp2
+- rpm
+- rul
+2023.08.20 17:31:45 mycal:WARNING Script: /pdl-app/public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cal1x
+- xP
+- mode
+- eid
+- evD
+- oUid
+- ediN
+- eExt
+- att
+- tit
+- ven
+- cid
+- sda
+- sti
+- eda
+- eti
+- des
+- xf1
+- xf2
+- nom
+- nos
+- nal
+- uid
+- r_t
+- ri1
+- rp1
+- ri2
+- rp2
+- rpm
+- rul
+2023.08.20 17:32:36 mycal:WARNING Script: /pdl-app/public/pdl_cal/index.php - Access denied. Possible spoofed form submission.
+.invalid token
+Form input keys:
+- cal1x
+- xP
+- mode
+- eid
+- evD
+- oUid
+- ediN
+- eExt
+- att
+- tit
+- ven
+- cid
+- sda
+- sti
+- eda
+- eti
+- des
+- xf1
+- xf2
+- nom
+- nos
+- nal
+- uid
+- r_t
+- ri1
+- rp1
+- ri2
+- rp2
+- rpm
+- rul

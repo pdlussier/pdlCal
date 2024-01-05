@@ -1,0 +1,582 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:- // LuxCal 4.7.7M // Dating Up Yours // EN
+X-LC-CONTENT:user: all // cat: all // due: begin - end // mod: begin - end
+X-WR-CALNAME:iCal_Test
+X-WR-TIMEZONE:America/New_York
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20221214T032100Z
+UID:20221202T050000ZTwit-LuxCal@pdlussier.ca
+SUMMARY:Twitter Files Released
+DESCRIPTION:Project: Twitter Files\nSubject: Censorship\nElon Musk / Matt Taibi - Bi
+ g reveal?
+CATEGORIES:Regular Event
+DTSTART;VALUE=DATE:20221202
+DTEND;VALUE=DATE:20221203
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230122T030800Z
+UID:20221220T050000ZBide-LuxCal@pdlussier.ca
+SUMMARY:Biden - Classified Docs
+DESCRIPTION:Project: Biden Bunch\nSubject: Corruption\nAnother pile found on 20-Dec-
+ 2022 but was reported on on 12-Jan-2023 onbly.
+CATEGORIES:Regular Event
+DTSTART;VALUE=DATE:20221220
+DTEND;VALUE=DATE:20221221
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20221223T215900Z
+UID:20221223T170000ZBill-LuxCal@pdlussier.ca
+SUMMARY:Bill Vote -AOC Lone Wolf
+DESCRIPTION:Project: Progressives\nSubject: US Politics\n<a class='link' href='https
+ ://www.msn.com/en-ca/news/other/rep-alexandria-ocasio-cortez-was-the-lon
+ e-democrat-in-congress-to-oppose-the-1-7-trillion-federal-spending-bill/
+ ar-AA15BUcs?ocid=msedgntp&cvid=eedbe6c415fe4dd7b45a59b189be614d' target=
+ '_blank'>www.msn.com/en-ca/news/other/rep-alexandria-ocasio-cortez-was-t
+ he-lone-democrat-in-congress-to-oppose-the-1-7-trillion-federal-spending
+ -bill/ar-AA15BUcs?ocid=msedgntp&cvid=eedbe6c415fe4dd7b45a59b189be614d</a
+ >
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20221223T120000
+DTEND;TZID=America/New_York:20221223T123000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230123T074800Z
+UID:20230110T143000ZJeff-LuxCal@pdlussier.ca
+SUMMARY:Jeff Beck - Died - 78
+DESCRIPTION:Project: Deaths\nSubject: Musicians\nBacterial Meningitis
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230110T093000
+DTEND;TZID=America/New_York:20230110T100000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230113T202300Z
+UID:20230111T023000ZJeff-LuxCal@pdlussier.ca
+SUMMARY:Jeff Beck - Died
+DESCRIPTION:Project: People\nSubject: Musicians\n1944 - 2023\; 78 yrs old\nBacterial
+  Meningitis
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230110T213000
+DTEND;TZID=America/New_York:20230110T220000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230115T150800Z
+UID:20230111T140000ZSecs-LuxCal@pdlussier.ca
+SUMMARY:Secs. Blinken and Austin Hold News Conference with Japanese Counterparts
+DESCRIPTION:Project: USA - Japan\nSubject: Defense\n<a class='link' href='https://ww
+ w.c-span.org/video/?525303-1/secs-blinken-austin-hold-news-conference-ja
+ panese-counterparts' target='_blank'>www.c-span.org/video/?525303-1/secs
+ -blinken-austin-hold-news-conference-japanese-counterparts</a>
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230111T090000
+DTEND;TZID=America/New_York:20230111T093000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230118T033800Z
+UID:20230112T013000ZRoga-LuxCal@pdlussier.ca
+SUMMARY:Rogan v. Soros
+DESCRIPTION:Project: Leftist Manipulation\nSubject: Soros\n<a class='link' href='htt
+ ps://www.newsweek.com/joe-rogan-accused-disgusting-antisemitism-over-geo
+ rge-soros-views-podcast-1774270' target='_blank'>www.newsweek.com/joe-ro
+ gan-accused-disgusting-antisemitism-over-george-soros-views-podcast-1774
+ 270</a>
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230111T203000
+DTEND;TZID=America/New_York:20230111T210000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230113T202100Z
+UID:20230112T050000ZTwit-LuxCal@pdlussier.ca
+SUMMARY:Twitter Files - Russiagate
+DESCRIPTION:Project: Twitter Files\nSubject: Russiagate\nMatt Taibi and Twitter comm
+ unications conclusively prove that Russiagate was entirely falsified by 
+ Dem elements.
+CATEGORIES:Regular Event
+DTSTART;VALUE=DATE:20230112
+DTEND;VALUE=DATE:20230113
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230118T034000Z
+UID:20230117T020000ZRoga-LuxCal@pdlussier.ca
+SUMMARY:Rogan v. Soros
+DESCRIPTION:Project: Leftist Manipulation\nSubject: Soros\nWhen "people" turned\; at
+ tacked Rogan. See 11-Jan-2023
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230116T210000
+DTEND;TZID=America/New_York:20230116T213000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230123T074600Z
+UID:20230118T120000ZDavi-LuxCal@pdlussier.ca
+SUMMARY:David Crosby - Died - 81
+DESCRIPTION:Project: Deaths\nSubject: Musicians
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230118T070000
+DTEND;TZID=America/New_York:20230118T073000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230123T071700Z
+UID:20230122T033000ZMont-LuxCal@pdlussier.ca
+SUMMARY:Monterey Park Shooting
+DESCRIPTION:Project: Gun Violence\nSubject: Mass shooting - Asians\n<a class='link' 
+ href='https://www.axios.com/2023/01/22/monterey-park-mass-shooting-calif
+ ornia' target='_blank'>www.axios.com/2023/01/22/monterey-park-mass-shoot
+ ing-california</a>
+CATEGORIES:Shooting - Mass
+LOCATION:California\, USA
+DTSTART;TZID=America/New_York:20230121T223000
+DTEND;TZID=America/New_York:20230121T224500
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230125T173600Z
+UID:20230124T150000ZPomp-LuxCal@pdlussier.ca
+SUMMARY:Pompeo - Memoir Release
+DESCRIPTION:Project: Politicians\nSubject: Mike Pompeo\nMemoir stirred controversy o
+ n dayreleased.
+CATEGORIES:Publication Date - Feature
+DTSTART;TZID=America/New_York:20230124T100000
+DTEND;TZID=America/New_York:20230124T103000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230125T173400Z
+UID:20230125T150000ZShoo-LuxCal@pdlussier.ca
+SUMMARY:Shooting - 3 Dead - Yakima\, WA
+DESCRIPTION:Project: Gun Violence\nSubject: Shooting\n<a class='link' href='https://
+ abcnews.go.com/US/3-killed-shooting-yakima-washington-gunman-large/story
+ ?id=96635522' target='_blank'>abcnews.go.com/US/3-killed-shooting-yakima
+ -washington-gunman-large/story?id=96635522</a>
+CATEGORIES:Shooting - Citizen
+DTSTART;TZID=America/New_York:20230125T100000
+DTEND;TZID=America/New_York:20230125T103000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230201T095100Z
+UID:20230126T153000ZPale-LuxCal@pdlussier.ca
+SUMMARY:Palestine - Raid by Israel IDF
+DESCRIPTION:Project: Gun Violence\, War\nSubject: Middle East\n<a class='link' href=
+ 'https://www.washingtonpost.com/world/2023/01/26/israel-raid-palestine-j
+ enin-deaths/' target='_blank'>www.washingtonpost.com/world/2023/01/26/is
+ rael-raid-palestine-jenin-deaths/</a>
+CATEGORIES:Regular Event
+LOCATION:Palestine
+DTSTART;TZID=America/New_York:20230126T103000
+DTEND;TZID=America/New_York:20230126T110000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230205T143800Z
+UID:20230127T020000ZVant-LuxCal@pdlussier.ca
+SUMMARY:Vantage - First Post
+DESCRIPTION:Project: Media\nSubject: Propaganda\nCNN18 - Palki Sharma
+CATEGORIES:Regular Event
+LOCATION:India
+DTSTART;TZID=America/New_York:20230126T210000
+DTEND;TZID=America/New_York:20230126T213000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230201T095300Z
+UID:20230127T153000ZJeru-LuxCal@pdlussier.ca
+SUMMARY:Jerusalem - 21-yr-old - Synagogue attack
+DESCRIPTION:Project: Gun Violence\, War\nSubject: Middle East\n<a class='link' href=
+ 'https://www.cnn.com/2023/01/27/middleeast/jerusalem-shooting-dead-intl/
+ index.html' target='_blank'>www.cnn.com/2023/01/27/middleeast/jerusalem-
+ shooting-dead-intl/index.html</a>
+CATEGORIES:Regular Event
+LOCATION:Jerusalem
+DTSTART;TZID=America/New_York:20230127T103000
+DTEND;TZID=America/New_York:20230127T110000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230201T094700Z
+UID:20230128T140000ZShoo-LuxCal@pdlussier.ca
+SUMMARY:Shooting - 13-yr-old perp - Jerusalem
+DESCRIPTION:Project: Gun Violence\nSubject: Middle East\nKey Event\n<a class='link' 
+ href='https://www.jta.org/2023/01/29/israel/13-year-old-palestinian-shoo
+ ts-2-in-jerusalem-as-violence-flares-and-government-flexes' target='_bla
+ nk'>www.jta.org/2023/01/29/israel/13-year-old-palestinian-shoots-2-in-je
+ rusalem-as-violence-flares-and-government-flexes</a>
+CATEGORIES:Shooting - Mass
+DTSTART;TZID=America/New_York:20230128T090000
+DTEND;TZID=America/New_York:20230128T093000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230205T072500Z
+LAST-MODIFIED:20230208T061300Z
+UID:20230130T050000ZChin-LuxCal@pdlussier.ca
+SUMMARY:Chinese "Spy" Balloon
+DESCRIPTION:Project: US Warmongering\nSubject: US-Chinese relations\nMassive freak-o
+ ut over a balloon that flies through US skies. Readily assumed to be Chi
+ nese and used to spy.
+CATEGORIES:Regular Event
+LOCATION:USA
+DTSTART;VALUE=DATE:20230130
+DTEND;VALUE=DATE:20230206
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230207T061700Z
+LAST-MODIFIED:20230208T063200Z
+UID:20230201T133000ZUkra-LuxCal@pdlussier.ca
+SUMMARY:Ukraine - sanction India & China
+DESCRIPTION:Project: Russo-Ukraine War\nSubject: Sanctions\nSenior Ukrainian lawmake
+ r Oleksandr Merezhko urged for sanctiuons against India and China for bu
+ ying cheap oil.   \n<a class='link' href='https://www.tribuneindia.com/n
+ ews/nation/influential-ukraine-leader-urges-us-to-impose-sanctions-on-in
+ dia-china-for-buying-russian-oil-476278' target='_blank'>www.tribuneindi
+ a.com/news/nation/influential-ukraine-leader-urges-us-to-impose-sanction
+ s-on-india-china-for-buying-russian-oil-476278</a>
+CATEGORIES:Russo-Ukraine War
+LOCATION:Ukraine
+DTSTART;TZID=America/New_York:20230201T083000
+DTEND;TZID=America/New_York:20230201T090000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230203T081500Z
+LAST-MODIFIED:20230208T063200Z
+UID:20230202T120000ZIlha-LuxCal@pdlussier.ca
+SUMMARY:Ilhan Omar - Committee role
+DESCRIPTION:Project: GOP Revenge\nSubject: Progressives\nForeign Committee - removed
+  from role\; Republican Revenge.\nAntisemitic comments cited as reason. 
+ Access to classified info motivation.
+CATEGORIES:US Politics
+LOCATION:USA
+DTSTART;TZID=America/New_York:20230202T070000
+DTEND;TZID=America/New_York:20230202T073000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230212T223600Z
+UID:20230210T123000ZSyd-LuxCal@pdlussier.ca
+SUMMARY:Syd Hirsh Piece - Pipeline
+DESCRIPTION:Project: World Order\nSubject: US Hegemony\nSeymour Hirsh
+CATEGORIES:US Politics
+DTSTART;TZID=America/New_York:20230210T073000
+DTEND;TZID=America/New_York:20230210T080000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230201T094500Z
+UID:20230212T050000ZDay-LuxCal@pdlussier.ca
+SUMMARY:Day of Honour - Hungary
+DESCRIPTION:Project: Extremists\nSubject: Neo-Nazis\nHungarian police have banned th
+ e annual marking of the “Day of Honour” dedicated to commemorating the N
+ azi forces who broke out of a Russian-encircled Hungary.\n<a class='link
+ ' href='https://www.bing.com/ck/a?!&&p=5c6a6c81018eabefJmltdHM9MTY3NTIwO
+ TYwMCZpZ3VpZD0xNGQ3NTZkMS0wY2JhLTYwODItMDk0Ny00N2FhMGQ2YzYxNDkmaW5zaWQ9N
+ TQyMg&ptn=3&hsh=3&fclid=14d756d1-0cba-6082-0947-47aa0d6c6149&psq=%22Day+
+ of+Honour.%22+hungary&u=a1aHR0cHM6Ly9ldXJvamV3Y29uZy5vcmcvbmV3cy9jb21tdW
+ 5pdGllcy1uZXdzL2h1bmdhcnkvaHVuZ2FyeS1iYW5zLWFubnVhbC1kYXktb2YtaG9ub3VyLW
+ 5lby1uYXppLXBhcmFkZS8&ntb=1' target='_blank'>www.bing.com/ck/a?!&&p=5c6a
+ 6c81018eabefJmltdHM9MTY3NTIwOTYwMCZpZ3VpZD0xNGQ3NTZkMS0wY2JhLTYwODItMDk0
+ Ny00N2FhMGQ2YzYxNDkmaW5zaWQ9NTQyMg&ptn=3&hsh=3&fclid=14d756d1-0cba-6082-
+ 0947-47aa0d6c6149&psq=%22Day+of+Honour.%22+hungary&u=a1aHR0cHM6Ly9ldXJva
+ mV3Y29uZy5vcmcvbmV3cy9jb21tdW5pdGllcy1uZXdzL2h1bmdhcnkvaHVuZ2FyeS1iYW5zL
+ WFubnVhbC1kYXktb2YtaG9ub3VyLW5lby1uYXppLXBhcmFkZS8&ntb=1</a>
+CATEGORIES:Regular Event
+DTSTART;VALUE=DATE:20230212
+DTEND;VALUE=DATE:20230213
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230303T120800Z
+UID:20230220T120000ZBide-LuxCal@pdlussier.ca
+SUMMARY:Biden in Ukraine
+DESCRIPTION:Project: Biden Bunch\nSubject: Ukraine\nBiden visit in Kiev
+CATEGORIES:Russo-Ukraine War
+DTSTART;TZID=America/New_York:20230220T070000
+DTEND;TZID=America/New_York:20230220T073000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230303T112800Z
+UID:20230302T220000ZWayn-LuxCal@pdlussier.ca
+SUMMARY:Wayne Shorter - Dies
+DESCRIPTION:Project: Obituary\nSubject: Musicians\nSaxophonist Wayne Shorter passed 
+ away
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230302T170000
+DTEND;TZID=America/New_York:20230302T173000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230312T223800Z
+UID:20230311T130000ZSili-LuxCal@pdlussier.ca
+SUMMARY:Silicon Valley Bank Collapse
+DESCRIPTION:Project: Economic collapse\nSubject: Failing Empire\nThe start of someth
+ ing very bad?
+CATEGORIES:US Politics
+DTSTART;TZID=America/New_York:20230311T080000
+DTEND;TZID=America/New_York:20230311T083000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230316T032500Z
+UID:20230315T120000ZUS c-LuxCal@pdlussier.ca
+SUMMARY:US clashes with Russian Jet
+DESCRIPTION:Project: World at War\nSubject: US provocation\n<a class='link' href='ht
+ tps://www.msn.com/en-ca/news/world/moscow-sees-drone-incident-as-provoca
+ tion-russia-s-ambassador-to-u-s/ar-AA18DA6i?ocid=msedgntp&cvid=607e1defc
+ e004d8b90a38db89c15a2d0&ei=15' target='_blank'>www.msn.com/en-ca/news/wo
+ rld/moscow-sees-drone-incident-as-provocation-russia-s-ambassador-to-u-s
+ /ar-AA18DA6i?ocid=msedgntp&cvid=607e1defce004d8b90a38db89c15a2d0&ei=15</
+ a>
+CATEGORIES:Russo-Ukraine War
+LOCATION:Black Sea - Near Crimea
+DTSTART;TZID=America/New_York:20230315T080000
+DTEND;TZID=America/New_York:20230315T083000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230510T152500Z
+UID:20230315T150000ZBig-LuxCal@pdlussier.ca
+SUMMARY:Big Tech - CDN Media
+DESCRIPTION:Project: Info Control & Dissemination\nSubject: Canadian Publishers\n<a 
+ class='link' href='https://www.reuters.com/technology/meta-end-news-acce
+ ss-canadians-if-online-news-act-becomes-law-2023-03-11/' target='_blank'
+ >www.reuters.com/technology/meta-end-news-access-canadians-if-online-new
+ s-act-becomes-law-2023-03-11/</a>
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230315T110000
+DTEND;TZID=America/New_York:20230315T113000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230413T053000Z
+UID:20230404T110000ZFinl-LuxCal@pdlussier.ca
+SUMMARY:Finland enters NATO
+DESCRIPTION:Project: War Machine\nSubject: US Imperialism
+CATEGORIES:US Politics
+LOCATION:Finland
+DTSTART;TZID=America/New_York:20230404T070000
+DTEND;TZID=America/New_York:20230404T073000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230425T134200Z
+UID:20230420T110000ZDan-LuxCal@pdlussier.ca
+SUMMARY:Dan Bongino leaves Fox
+DESCRIPTION:Project: Media\nSubject: Fox News\nBongino unable to settle on new contr
+ act\, he claims.
+CATEGORIES:US Politics
+DTSTART;TZID=America/New_York:20230420T070000
+DTEND;TZID=America/New_York:20230420T073000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230425T134100Z
+UID:20230424T110000ZTuck-LuxCal@pdlussier.ca
+SUMMARY:Tucker Carlson fired
+DESCRIPTION:Project: Media\nSubject: Fox News\nCarlson fired from Fox News
+CATEGORIES:US Politics
+DTSTART;TZID=America/New_York:20230424T070000
+DTEND;TZID=America/New_York:20230424T073000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230425T134300Z
+UID:20230424T120000ZDon-LuxCal@pdlussier.ca
+SUMMARY:Don Lemon Fired
+DESCRIPTION:Project: Media\nSubject: CNN\nLemon fired from CNN
+CATEGORIES:US Politics
+DTSTART;TZID=America/New_York:20230424T080000
+DTEND;TZID=America/New_York:20230424T083000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230502T194000Z
+UID:20230502T113000ZGord-LuxCal@pdlussier.ca
+SUMMARY:Gordon Lightfoot - Died
+DESCRIPTION:Project: Musicians\nSubject: Death\nGordon Lightfoot - Canadian Folk mus
+ ician\nb. 1938 - d. 2023
+CATEGORIES:US Politics
+DTSTART;TZID=America/New_York:20230502T073000
+DTEND;TZID=America/New_York:20230502T080000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230514T061800Z
+UID:20230505T123000ZChok-LuxCal@pdlussier.ca
+SUMMARY:Chokehold by Marine - Jordan Neely
+DESCRIPTION:Project: US Violence\nSubject: Vigilantism\n<a class='link' href='https:
+ //www.cnn.com/2023/05/05/us/jordan-neely-new-york-city-subway-chokehold-
+ death-friday/index.html' target='_blank'>www.cnn.com/2023/05/05/us/jorda
+ n-neely-new-york-city-subway-chokehold-death-friday/index.html</a> \n<a 
+ class='link' href='https://news.yahoo.com/jordan-neely-chokehold-death-n
+ yc-153928334.html' target='_blank'>news.yahoo.com/jordan-neely-chokehold
+ -death-nyc-153928334.html</a>
+CATEGORIES:Shooting - Citizen
+DTSTART;TZID=America/New_York:20230505T083000
+DTEND;TZID=America/New_York:20230505T090000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230810T225600Z
+UID:20230726T140000ZCoup-LuxCal@pdlussier.ca
+SUMMARY:Coup in Niger
+DESCRIPTION:Removal of "President-elect" Mohamed Bazoum\; \nEx-criminal turned ruler
+ \; pro-West.
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230726T100000
+DTEND;TZID=America/New_York:20230726T103000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230812T060100Z
+UID:20230801T110000ZUS C-LuxCal@pdlussier.ca
+SUMMARY:US Credit rating down graded
+DESCRIPTION:Project: World Order\nSubject: Economy\nIn response to the 2023 United S
+ tates debt-ceiling crisis\, Fitch placed its AAA rating on a negative wa
+ tch on May 24\, 2023\, warning that "risks have risen that the debt limi
+ t will not be raised or suspended before the x-date and consequently tha
+ t the government could begin to miss payments on some of its obligations
+ ." The agency cautioned that a default would downgrade affected securiti
+ es to 'D'\, while other treasury bills could fall to 'CCC' or 'C'.[38]\n
+ On August 1\, 2023 Fitch downgraded USA long-term credit rating to AA+ f
+ rom AAA.[39]
+CATEGORIES:Publication Date - Feature
+DTSTART;TZID=America/New_York:20230801T070000
+DTEND;TZID=America/New_York:20230801T073000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230812T110300Z
+UID:20230801T130000ZImam-LuxCal@pdlussier.ca
+SUMMARY:Imam Killed by Hindu Mob
+DESCRIPTION:Project: Extremism\nSubject: India\nImam killed after Hindu mob attacks 
+ mosque in India’s Gurugram.\nmob of far-right Hindus torched and opened 
+ fire at a mosque in a suburb of the Indian capital\, New Delhi\, hours a
+ fter deadly communal violence in a nearby district.\n<a class='link' hre
+ f='https://www.aljazeera.com/news/2023/8/1/imam-killed-after-hindu-mob-a
+ ttacks-mosque-in-indias-gurugram' target='_blank'>www.aljazeera.com/news
+ /2023/8/1/imam-killed-after-hindu-mob-attacks-mosque-in-indias-gurugram<
+ /a>
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230801T090000
+DTEND;TZID=America/New_York:20230801T093000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230811T113700Z
+UID:20230807T113000ZVict-LuxCal@pdlussier.ca
+SUMMARY:Victoria Nuland in Niger
+DESCRIPTION:Project: Anti-imperialism\nSubject: Niger Coup - France/US neocolonialis
+ m\n<a class='link' href='https://www.cnn.com/2023/08/07/politics/niger-m
+ ilitary-junta-nuland-meeting/index.html' target='_blank'>www.cnn.com/202
+ 3/08/07/politics/niger-military-junta-nuland-meeting/index.html</a>    \
+ \\n<a class='link' href='https://www.politico.com/news/2023/08/07/niger-
+ coup-leaders-refuse-to-let-senior-u-s-diplomat-meet-with-deposed-preside
+ nt-00110207' target='_blank'>www.politico.com/news/2023/08/07/niger-coup
+ -leaders-refuse-to-let-senior-u-s-diplomat-meet-with-deposed-president-0
+ 0110207</a>
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230807T073000
+DTEND;TZID=America/New_York:20230807T080000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230811T191500Z
+UID:20230810T110000ZMajo-LuxCal@pdlussier.ca
+SUMMARY:Major forest fire in Maui
+DESCRIPTION:Project: Climate\nSubject: Disasters\nMany deaths (40\, latest count)
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230810T070000
+DTEND;TZID=America/New_York:20230810T073000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230812T104800Z
+LAST-MODIFIED:20230815T040900Z
+UID:20230810T133000ZEcua-LuxCal@pdlussier.ca
+SUMMARY:Ecuadorian Fernando Villavicencio assassinated
+DESCRIPTION:Project: World Order\nSubject: Coup\nEcuador presidential candidate Vill
+ avicencio assassinated.\n<a class='link' href='https://www.reuters.com/w
+ orld/americas/ecuadorean-candidate-villavicencio-killed-campaign-event-l
+ ocal-media-2023-08-10/' target='_blank'>www.reuters.com/world/americas/e
+ cuadorean-candidate-villavicencio-killed-campaign-event-local-media-2023
+ -08-10/</a>
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230810T093000
+DTEND;TZID=America/New_York:20230810T103000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230812T092000Z
+LAST-MODIFIED:20230813T104600Z
+UID:20230811T110000ZHunt-LuxCal@pdlussier.ca
+SUMMARY:Hunter Biden appointed special council
+DESCRIPTION:Project: Biden Affair\nSubject: Ukraine
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230811T070000
+DTEND;TZID=America/New_York:20230811T073000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230814T040700Z
+UID:20230811T120000ZVirg-LuxCal@pdlussier.ca
+SUMMARY:Virgin Galactic - Flies first tourist into space
+DESCRIPTION:Project: Tech Progress\nSubject: Space
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230811T080000
+DTEND;TZID=America/New_York:20230811T083000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230814T041200Z
+UID:20230811T160000ZDron-LuxCal@pdlussier.ca
+SUMMARY:Drones Hit Moscow
+DESCRIPTION:<a class='link' href='https://www.msn.com/en-ca/video/news/drone-explosi
+ on-in-moscow-caught-on-camera-my-heart-is-still-pounding/vi-AA1f9DhX?oci
+ d=msedgntp&cvid=307006f0fff64f2885aee8f9074b36c4&ei=71' target='_blank'>
+ www.msn.com/en-ca/video/news/drone-explosion-in-moscow-caught-on-camera-
+ my-heart-is-still-pounding/vi-AA1f9DhX?ocid=msedgntp&cvid=307006f0fff64f
+ 2885aee8f9074b36c4&ei=71</a>
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230811T120000
+DTEND;TZID=America/New_York:20230811T123000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230814T041000Z
+UID:20230812T113000ZSaud-LuxCal@pdlussier.ca
+SUMMARY:Saudi Appoints 1st Palestinian Ambassador
+DESCRIPTION:<a class='link' href='https://www.msn.com/en-ca/news/world/saudi-arabia-
+ appoints-first-ambassador-to-palestine-amid-rapprochement-with-israel/ar
+ -AA1fbnr6?ocid=msedgntp&cvid=307006f0fff64f2885aee8f9074b36c4&ei=57' tar
+ get='_blank'>www.msn.com/en-ca/news/world/saudi-arabia-appoints-first-am
+ bassador-to-palestine-amid-rapprochement-with-israel/ar-AA1fbnr6?ocid=ms
+ edgntp&cvid=307006f0fff64f2885aee8f9074b36c4&ei=57</a>
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230812T073000
+DTEND;TZID=America/New_York:20230812T080000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230815T024818Z
+CREATED:20230815T010500Z
+UID:20230815T113000ZIndi-LuxCal@pdlussier.ca
+SUMMARY:India - Independence Day
+DESCRIPTION:Project: Nationalism\nSubject: India
+CATEGORIES:Regular Event
+DTSTART;TZID=America/New_York:20230815T073000
+DTEND;TZID=America/New_York:20230815T080000
+END:VEVENT
+END:VCALENDAR

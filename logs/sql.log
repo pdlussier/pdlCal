@@ -1,0 +1,7 @@
+
+2020.04.18 20:58:43 mycal:ERROR Script: /public/pdl_cal/index.php - Database connection error: SQLSTATE[28000] [1045] Access denied for user 'pdlussie_calpdl'@'localhost' (using password: YES)
+2020.04.18 20:59:17 mycal:ERROR Script: /public/pdl_cal/index.php - Database connection error: SQLSTATE[28000] [1045] Access denied for user 'pdlussie_calpdl'@'localhost' (using password: YES)
+2020.04.19 18:37:57 mycal:ERROR Script: /public/pdl_cal/index.php - Database connection error: could not find driver
+2020.04.19 18:38:01 mycal:ERROR Script: /public/pdl_cal/index.php - Database connection error: could not find driver
+2021.01.20 09:22:31 mycal:ERROR Script: /public/pdl_cal/index.php - Database connection error: SQLSTATE[28000] [1045] Access denied for user 'pdlussie_pdlussie'@'localhost' (using password: YES)
+2023.08.14 20:59:59 mycal:ERROR Script: /pdl-app/public/pdl_cal/index.php - Database connection error: SQLSTATE[28000] [1045] Access denied for user 'pdlussie_upstrt'@'localhost' (using password: YES)

@@ -1,0 +1,102 @@
+[07-Feb-2023 01:32:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/pdlussie/public_html/public/pdl_cal/common/messaging.php on line 121
+[07-Feb-2023 01:32:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/pdlussie/public_html/public/pdl_cal/common/messaging.php on line 121
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:32 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php on line 213
+[02-Dec-2023 03:42:32 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:32 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:32 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/pdlussie/public_html/pdl-app/public/pdl_cal/common/messaging.php on line 121
+[02-Dec-2023 03:42:51 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:51 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:51 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:51 America/New_York] PHP   3. notEmlNow($evt = ['cnm' => 'Regular Event', 'snm' => '', 'ven' => '', 'des' => '', 'xf1' => '', 'xf2' => '', 'att' => '', 'una' => 'pdlussier', 'edr' => 'pdlussier', 'chd' => '', 'adt' => '2023-12-02 03:42', 'mdt' => ''], $addrList = '[pdlussier@bell.net];[pdl@pdlussier.ca]', $what = 'add') /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php:405
+[02-Dec-2023 03:42:51 America/New_York] PHP   4. sendEml($subject = 'New event: Henry Kissinger - Dead 100', $msgBody = '\r\n<h5>New event:</h5>\r\n<br>\r\n<table style="padding-left:5px;">\r\n\t<tr><td>Title:</td><td><b><span style="color:#303030;">Henry Kissinger - Dead 100</span></b></td></tr>\r\n\t\r\n\t<tr><td>Date / time:</td><td>30.11.2023 @ 12:30 - 13:00</td></tr>\r\n\t<tr><td>Category:</td><td>Regular Event</td></tr><tr><td>Added:</td><td>02.12.2023 @ 3:42 (pdlussier)</td></tr>\r\n</table>\r\n', $rawRecList = '[pdlussier@bell.net];[pdl@pdlussier.ca]', $style = 0, $senderId = 0, $date = '2023-11-30') /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php:53
+[02-Dec-2023 03:42:58 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/pdlussie/public_html/pdl-app/public/pdl_cal/common/messaging.php on line 121
+[02-Dec-2023 03:42:58 America/New_York] PHP Stack trace:
+[02-Dec-2023 03:42:58 America/New_York] PHP   1. {main}() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:0
+[02-Dec-2023 03:42:58 America/New_York] PHP   2. require() /home/pdlussie/public_html/pdl-app/public/pdl_cal/index.php:275
+[02-Dec-2023 03:42:58 America/New_York] PHP   3. notEmlNow($evt = ['cnm' => 'Regular Event', 'snm' => '', 'ven' => '', 'des' => '', 'xf1' => '', 'xf2' => '', 'att' => '', 'una' => 'pdlussier', 'edr' => 'pdlussier', 'chd' => '', 'adt' => '2023-12-02 03:42', 'mdt' => '2023-12-02 03:42'], $addrList = '[pdlussier@bell.net];[pdl@pdlussier.ca]', $what = 'upd') /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php:405
+[02-Dec-2023 03:42:58 America/New_York] PHP   4. sendEml($subject = 'Changed event: Henry Kissinger - Dead @ 100', $msgBody = '\r\n<h5>Changed event:</h5>\r\n<br>\r\n<table style="padding-left:5px;">\r\n\t<tr><td>Title:</td><td><b><span style="color:#303030;">Henry Kissinger - Dead @ 100</span></b></td></tr>\r\n\t\r\n\t<tr><td>Date / time:</td><td>30.11.2023 @ 12:30 - 13:00</td></tr>\r\n\t<tr><td>Category:</td><td>Regular Event</td></tr><tr><td>Added:</td><td>02.12.2023 @ 3:42 (pdlussier)</td></tr><tr><td>Edited:</td><td>02.12.2023 @ 3:42 (pdlussier)</td></tr>\r\n</table>\r\n', $rawRecList = '[pdlussier@bell.net];[pdl@pdlussier.ca]', $style = 0, $senderId = 0, $date = '2023-11-30') /home/pdlussie/public_html/pdl-app/public/pdl_cal/pages/event.php:53
